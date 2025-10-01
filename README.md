@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asifur Rahaman</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🌱 I’m currently learning **NodeJS,MYSQL,C++**
+- 🌱 I’m currently learning **NodeJS,Data Modelling,MYSQL,C++**
 
 - 👯 I’m looking to collaborate on **Full stack projects**
 
