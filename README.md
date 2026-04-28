@@ -13,11 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/asif64077466" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asif64077466" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asifur rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asifur rahaman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/31599402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31599402" height="30" width="40" /></a>
 <a href="https://instagram.com/xshredz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xshredz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/asifur_rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asifur_rahaman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
