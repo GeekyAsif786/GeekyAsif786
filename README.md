@@ -1,26 +1,42 @@
-<h1 align="center">Hi 👋, I'm Asifur Rahaman</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+# Hey, I'm [Asifur Rahaman] 👋
 
-- 🌱 I’m currently learning **NodeJS,Data Modelling,MYSQL,C++**
+ > I dissect systems out of curiosity, weaponize knowledge into projects, and automate whatever wastes human effort.
 
-- 👯 I’m looking to collaborate on **Full stack projects**
+```
+$ whoami
+> ML engineer by day, penetration tester by night — mass commits, zero regrets
+```
+```
+$ mindset > Curiosity over comfort. Precision over hype. Learning never in sandbox mode.
+```
+---
 
-- 💬 Ask me about **MERN Stack,MongoDB, C, C++, Competitive programming**
+### ⚙️ What I'm Working On
 
-- 📫 How to reach me **techwise.asif.dev@gmail.com**
+- **[AI Political Analyzer](https://github.com/yourusername/project-alpha)** — AI system that dissects political narratives, bias, and rhetoric in real-time.
+- **[clip-cast](https://github.com/GeekyAsif786/clip-cast.git)** — A Full stack video streaming platform
 
-- ⚡ Fun fact **I think i am the best Dev out here**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asifur rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asifur rahaman" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/31599402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31599402" height="30" width="40" /></a>
-<a href="https://instagram.com/xshredz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xshredz" height="30" width="40" /></a>
-</p>
+### 🛠️ Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+`Python` `scikit-learn` `Bash` `Docker` `FastAPI` `Linux` `MERN` `Offensive-Security` `C/C++`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekyasif786&show_icons=true&locale=en&layout=compact" alt="geekyasif786" /></p>
+---
+### 🔌 Keeps special interest in IOT and robotics
+---
+### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geekyasif786&show_icons=true&locale=en" alt="geekyasif786" /></p>
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=GeekyAsif786&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/GeekyAsif786)
+
+[![activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeekyAsif786&theme=tokyonight)](https://github.com/GeekyAsif786)
+
+[![top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeekyAsif786&theme=tokyonight)](https://github.com/GeekyAsif786) [![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeekyAsif786&theme=tokyonight)](https://github.com/GeekyAsif786)
+
+---
+
+### 🔗 Contacts
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Asif64077466)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifur-rahaman-0a986b1a6)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techwise.asif.dev@gmail.com)
