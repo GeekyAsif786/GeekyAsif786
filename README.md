@@ -7,7 +7,8 @@ $ whoami
 > ML engineer by day, penetration tester by night — mass commits, zero regrets
 ```
 ```
-$ mindset > Curiosity over comfort. Precision over hype. Learning never in sandbox mode.
+$ mindset
+> Curiosity over comfort. Precision over hype. Learning never in sandbox mode.
 ```
 ---
 
