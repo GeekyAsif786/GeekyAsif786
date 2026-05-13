@@ -1,4 +1,4 @@
-# Hey, I'm [Asifur Rahaman] 👋
+# Hey, I'm Asif 👋
 
  > I dissect systems out of curiosity, weaponize knowledge into projects, and automate whatever wastes human effort.
 
