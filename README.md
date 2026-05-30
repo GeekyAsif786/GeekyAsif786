@@ -16,7 +16,7 @@ $ mindset
 
 - **[AI Political Analyzer](https://github.com/yourusername/project-alpha)** — AI system that dissects political narratives, bias, and rhetoric in real-time.
 - **[clip-cast](https://github.com/GeekyAsif786/clip-cast.git)** — A Full stack video streaming platform
-
+- **[Roadmind](https://github.com/GeekyAsif786/RoadMind.git)** - A Hardware+software road traffic signal optimizer and controller
 ---
 
 ### 🛠️ Stack
