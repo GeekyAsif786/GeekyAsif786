@@ -37,7 +37,6 @@ I build machine-learning systems and then try to break them. My focus is **AI se
 | Project | What it is | Engineering focus |
 | :--- | :--- | :--- |
 | **[ExamSnap](https://github.com/GeekyAsif786/ExamSnap)** · [live](https://examsnap.asifurrahaman.com) | Resizes exam photos and signatures to the exact pixels and KB Indian portals require, 100% in the browser. Hindi UI, works offline. | **Vanilla JS · PWA · Playwright** — JPEG byte-range fitting, metadata stripping, strict CSP, CodeQL, three-engine e2e tests. |
-| **ToolsetSentinel** *(research)* | Detecting tool poisoning that is spread across an MCP agent's whole toolset rather than hidden in one tool. | **AI security · LLM agents · MCP** — threat modelling and detection for agent tool ecosystems. |
 | **[SentinelAI](https://github.com/GeekyAsif786/sentinelAI)** | Defensive security tool that turns Nmap scans into AI-assisted attack-path analysis. | **Python · Nmap · Neo4j · Celery** — XML and live scan ingestion, graph-based attack paths. |
 | **Veritas-Engine**<!-- TODO: add repo link --> | AI research engine that produces defensible, traceable research reports. | **FastAPI · Next.js** — multi-phase pipeline built in 20 planned phases. |
 | **[RoadMind](https://github.com/GeekyAsif786/RoadMind)** | Hardware + software road-traffic signal optimiser and controller. | **XGBoost · OpenCV · FastAPI · PostgreSQL · React** — vision-based traffic counting and ML-driven signal timing. |
