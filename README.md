@@ -8,9 +8,9 @@ B.Tech IT student · India · IST (UTC+5:30) · Open to research &amp; engineeri
 
 <p align="center">
   <a href="https://asifurrahaman.com"><strong>Blog</strong></a> &nbsp; / &nbsp;
-  <a href="https://linkedin.com/in/asifur-rahaman-0a986b1a6"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/asifur-rahaman-dev/"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
   <a href="https://x.com/Asif64077466"><strong>X</strong></a> &nbsp; / &nbsp;
-  <a href="mailto:techwise.asif.dev@gmail.com"><strong>Email me</strong></a>
+  <a href="mailto:asif@asifurrahaman.com"><strong>Email me</strong></a>
 </p>
 
 <p align="center">
