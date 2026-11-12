@@ -1,43 +1,73 @@
-# Hey, I'm Asif 👋
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Asifur Rahaman — I build ML systems, then try to break them. Working toward safer AI agents." />
+</p>
 
- > I dissect systems out of curiosity, weaponize knowledge into projects, and automate whatever wastes human effort.
+<h1 align="center">Hey, I'm Asif.</h1>
+<p align="center"><strong>AI Security &amp; Safety · Machine Learning · Offensive Security</strong><br/>
+B.Tech IT student · India · IST (UTC+5:30) · Open to research &amp; engineering internships</p>
 
-```
-$ whoami
-> ML engineer by day, penetration tester by night — mass commits, zero regrets
-```
-```
-$ mindset
-> Curiosity over comfort. Precision over hype. Learning never in sandbox mode.
-```
----
+<p align="center">
+  <a href="https://asifurrahaman.com"><strong>Blog</strong></a> &nbsp; / &nbsp;
+  <a href="https://linkedin.com/in/asifur-rahaman-0a986b1a6"><strong>LinkedIn</strong></a> &nbsp; / &nbsp;
+  <a href="https://x.com/Asif64077466"><strong>X</strong></a> &nbsp; / &nbsp;
+  <a href="mailto:techwise.asif.dev@gmail.com"><strong>Email me</strong></a>
+</p>
 
-### ⚙️ What I'm Working On
+<p align="center">
+  <a href="https://examsnap.asifurrahaman.com"><img src="./assets/link-examsnap.svg" width="192" alt="ExamSnap — live open-source tool" /></a>
+  <a href="https://github.com/GeekyAsif786?tab=repositories"><img src="./assets/link-github.svg" width="192" alt="GitHub — all repositories" /></a>
+  <a href="https://asifurrahaman.com"><img src="./assets/link-blog.svg" width="192" alt="Blog — asifurrahaman.com" /></a>
+  <a href="https://linkedin.com/in/asifur-rahaman-0a986b1a6"><img src="./assets/link-linkedin.svg" width="192" alt="LinkedIn — let's connect" /></a>
+</p>
 
-- **[AI Political Analyzer](https://github.com/yourusername/project-alpha)** — AI system that dissects political narratives, bias, and rhetoric in real-time.
-- **[clip-cast](https://github.com/GeekyAsif786/clip-cast.git)** — A Full stack video streaming platform
-- **[Roadmind](https://github.com/GeekyAsif786/RoadMind.git)** - A Hardware+software road traffic signal optimizer and controller
----
+<p align="center"><img src="./assets/divider.svg" width="100%" alt="" /></p>
 
-### 🛠️ Stack
+I build machine-learning systems and then try to break them. My focus is **AI security and safety**: how agents and models fail under attack, and how to make them fail less. I work mostly in **Python**, with **FastAPI**, **React/Next.js** and **Linux** around it, and I like shipping things in the open.
 
-`Python` `scikit-learn` `Bash` `Docker` `FastAPI` `Linux` `MERN` `Offensive-Security` `C/C++`
+### A few things about me
 
----
-### 🔌 Keeps special interest in IOT and robotics
----
-### 📊 Stats
+- **Research:** working on **ToolsetSentinel**, toolset-level detection of distributed and implicit **tool poisoning in MCP agents** (paper in progress).
+- **Open source:** maintainer of **[ExamSnap](https://github.com/GeekyAsif786/ExamSnap)**, a privacy-first exam photo & signature resizer for Indian students. Contributions welcome, and there are [good first issues](https://github.com/GeekyAsif786/ExamSnap/labels/good%20first%20issue).
+- **Security:** offensive-security home lab; I read code the way an attacker would.
+- **Education:** B.Tech in Information Technology, 3rd year.
+- **Side interests:** IoT and robotics.
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=GeekyAsif786&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/GeekyAsif786)
+### Selected work
 
-[![activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeekyAsif786&theme=tokyonight)](https://github.com/GeekyAsif786)
+| Project | What it is | Engineering focus |
+| :--- | :--- | :--- |
+| **[ExamSnap](https://github.com/GeekyAsif786/ExamSnap)** · [live](https://examsnap.asifurrahaman.com) | Resizes exam photos and signatures to the exact pixels and KB Indian portals require, 100% in the browser. Hindi UI, works offline. | **Vanilla JS · PWA · Playwright** — JPEG byte-range fitting, metadata stripping, strict CSP, CodeQL, three-engine e2e tests. |
+| **ToolsetSentinel** *(research)* | Detecting tool poisoning that is spread across an MCP agent's whole toolset rather than hidden in one tool. | **AI security · LLM agents · MCP** — threat modelling and detection for agent tool ecosystems. |
+| **[SentinelAI](https://github.com/GeekyAsif786/sentinelAI)** | Defensive security tool that turns Nmap scans into AI-assisted attack-path analysis. | **Python · Nmap · Neo4j · Celery** — XML and live scan ingestion, graph-based attack paths. |
+| **Veritas-Engine**<!-- TODO: add repo link --> | AI research engine that produces defensible, traceable research reports. | **FastAPI · Next.js** — multi-phase pipeline built in 20 planned phases. |
+| **[RoadMind](https://github.com/GeekyAsif786/RoadMind)** | Hardware + software road-traffic signal optimiser and controller. | **XGBoost · OpenCV · FastAPI · PostgreSQL · React** — vision-based traffic counting and ML-driven signal timing. |
+| **[clip-cast](https://github.com/GeekyAsif786/clip-cast)** | Full-stack video streaming platform. | **MERN** — uploads, streaming and user flows end to end. |
 
-[![top languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GeekyAsif786&theme=tokyonight)](https://github.com/GeekyAsif786) [![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeekyAsif786&theme=tokyonight)](https://github.com/GeekyAsif786)
+<p align="center"><img src="./assets/workflow.svg" width="100%" alt="How I work: recon, build, attack, harden, ship" /></p>
 
----
+### Tools I work with
 
-### 🔗 Contacts
+| Area | Tools and methods |
+| :--- | :--- |
+| **AI & ML** | Python, scikit-learn, XGBoost, OpenCV, LLM agents, MCP |
+| **Security** | Nmap, Linux, Bash, offensive security, threat modelling, CodeQL |
+| **Applications** | FastAPI, React, Next.js, Node.js, MERN, JavaScript, C/C++ |
+| **Data & delivery** | PostgreSQL, Neo4j, Docker, Git, GitHub Actions, Playwright |
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Asif64077466)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asifur-rahaman-0a986b1a6)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:techwise.asif.dev@gmail.com)
+### Contribution visualizer
+
+A snake making its way through my GitHub contributions. Refreshed daily.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeekyAsif786/GeekyAsif786/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeekyAsif786/GeekyAsif786/output/github-snake.svg" />
+  <img alt="Animated snake moving through Asif's GitHub contribution calendar" src="https://raw.githubusercontent.com/GeekyAsif786/GeekyAsif786/output/github-snake.svg" width="100%" />
+</picture>
+
+<a href="mailto:techwise.asif.dev@gmail.com"><img src="./assets/contact.svg" width="100%" alt="Open to research and engineering internships — email Asif" /></a>
+
+### Let's build something secure
+
+**Working on AI security, ML or open-source tooling?** I'd love to hear about it, whether it's an internship, a research idea or a bug you want a second pair of eyes on.
+
+[**Email techwise.asif.dev@gmail.com →**](mailto:techwise.asif.dev@gmail.com) &nbsp; · &nbsp; [Connect on LinkedIn](https://linkedin.com/in/asifur-rahaman-0a986b1a6) &nbsp; · &nbsp; [Read my blog](https://asifurrahaman.com)

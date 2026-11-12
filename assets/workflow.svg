@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title"><title id="title">How I work: recon, build, attack, harden, ship</title>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.m{font-family:ui-monospace,Menlo,Consolas,monospace}.f{stroke-dasharray:5 10;animation:f 2.4s linear infinite}@keyframes f{to{stroke-dashoffset:-60}}.n{animation:n 5s ease-in-out infinite}@keyframes n{50%{opacity:.55}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="150" rx="18" fill="#0f1117" stroke="#2b3040"/>
+<text class="m" x="40" y="34" font-size="12" letter-spacing="3" fill="#9aa1b0">HOW I WORK</text>
+<g font-size="15" font-weight="600" text-anchor="middle">
+<path class="f" d="M248 90H312M488 90H552M728 90H792M968 90H1032" stroke="#ffb020" stroke-width="2" fill="none"/>
+<rect x="68" y="62" width="180" height="56" rx="12" fill="#171a23" stroke="#3a3f4f"/><text x="158" y="88" fill="#f3f4f6">Recon</text><text x="158" y="106" font-size="11" font-weight="400" fill="#a6adbb">read the spec, map the system</text>
+<rect x="312" y="62" width="176" height="56" rx="12" fill="#171a23" stroke="#3a3f4f"/><text x="400" y="88" fill="#f3f4f6">Build</text><text x="400" y="106" font-size="11" font-weight="400" fill="#a6adbb">small, tested steps</text>
+<rect class="n" x="552" y="62" width="176" height="56" rx="12" fill="#241219" stroke="#ff4d5e"/><text x="640" y="88" fill="#ff8a95">Attack</text><text x="640" y="106" font-size="11" font-weight="400" fill="#c2c7d1">try to break it on purpose</text>
+<rect x="792" y="62" width="176" height="56" rx="12" fill="#171a23" stroke="#3a3f4f"/><text x="880" y="88" fill="#f3f4f6">Harden</text><text x="880" y="106" font-size="11" font-weight="400" fill="#a6adbb">fix, then add a test</text>
+<rect x="1032" y="62" width="128" height="56" rx="12" fill="#2a1f0b" stroke="#ffb020"/><text x="1096" y="88" fill="#ffd27a">Ship</text><text x="1096" y="106" font-size="11" font-weight="400" fill="#c2c7d1">in the open</text>
+</g></svg>

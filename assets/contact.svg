@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title"><title id="title">Open to research and engineering internships — get in touch</title>
+<style>text{font-family:Segoe UI,Arial,sans-serif}.m{font-family:ui-monospace,Menlo,Consolas,monospace}.c{animation:b 1.1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<defs><linearGradient id="g" x2="1"><stop stop-color="#1c1018"/><stop offset="1" stop-color="#0b0d12"/></linearGradient></defs>
+<rect width="1200" height="120" rx="18" fill="url(#g)" stroke="#3a3f4f"/>
+<text class="m" x="44" y="48" font-size="14" fill="#ffb020">$ ./contact --open-to internships<tspan class="c"> ▍</tspan></text>
+<text x="44" y="86" font-size="22" font-weight="600" fill="#f3f4f6">Working on AI security, ML or open source? Let's talk.</text>
+<rect x="990" y="40" width="166" height="44" rx="22" fill="#ff4d5e"/><text x="1073" y="68" text-anchor="middle" font-size="15" font-weight="700" fill="#12141b">Email me →</text>
+</svg>
